@@ -25,6 +25,7 @@ You can install the dependencies with:
 
 ```bash
 pip install pandas sentence-transformers torch
+```
 
 ## Usage
 
@@ -37,7 +38,7 @@ Example:
 
 ```python
 search_products("wireless bluetooth headphones", top_k=5)
-
+```
 ## Next Steps
 
 - Integrate with a web app using Gradio or Streamlit for an interactive search experience.  
@@ -51,3 +52,5 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ---
 
 Made with ❤️ by Özlem
+
+
